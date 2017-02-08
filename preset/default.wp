@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+
+<config>
+  <mode>0</mode>
+  <method>1</method>
+  <amplitude>0.5</amplitude>
+  <warning>0</warning>
+  <compress>0</compress>
+  <encrypt>0</encrypt>
+</config>
+
