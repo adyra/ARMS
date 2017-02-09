@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+
+<config>
+  <mode>0</mode>
+  <method>0</method>
+  <lsb>8</lsb>
+  <warning>1</warning>
+  <compress>0</compress>
+  <encrypt>1</encrypt>
+  <msgSize>1681474</msgSize>
+</config>
+
